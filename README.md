@@ -2,4 +2,4 @@
 
 ## System Architecture
 
-![MERN Notes App Architecture](./MERN_APP_ARCHITECTURE.png)
+![MERN Notes App Architecture](./MERN_APP_ARCHITECTURE(FINALL).png)
