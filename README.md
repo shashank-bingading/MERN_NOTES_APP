@@ -14,7 +14,7 @@ A full-stack notes application built with the MERN stack. Users can create, view
 
 ## System Architecture
 
-![System Architecture](docs/architecture.png)
+![System Architecture](MERN_APP_ARCHITECTURE(FINALL).png)
 
 ### Frontend
 
